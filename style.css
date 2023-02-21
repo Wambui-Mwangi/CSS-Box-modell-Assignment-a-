@@ -1,0 +1,8 @@
+.inner{
+padding: 20px;
+margin: 5%;
+border: solid 2px coral;
+}
+.outer{
+border: dotted 2px green;
+}
